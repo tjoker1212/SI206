@@ -13,10 +13,10 @@ import tweepy
 from textblob import TextBlob
 
 # Unique code from Twitter
-access_token = "1001992866-ogYwgkdmvrBEbL8kerQiIQWjfQ5UbKfNk0tsyZN"
-access_token_secret = "uupqt3zhwkQ0cd1CPZPKU9BSeyutsDQKsz1OgmetCvchg"
-consumer_key = "dLOlbm0zMLexmmVueDJBhvYfl"
-consumer_secret = "2haCdXUh2y3kXlt1PRmpiormGGksyCpY8T6hC70KSIbu0Hrofj"
+access_token = "1001992866-Z7Rx0dRzqsnOy7gfGc3ac1A8auGDVCyW1MWpurm"
+access_token_secret = "nkvDTNtH5qLuuAemICUjcx2oK03cxVdQpP1bfFEA1x4H8"
+consumer_key = "oIKUQxPg4eW6EwpzA1h5ocmeZ"
+consumer_secret = "MlsYZn1jY1AmkMtvtPdjxAZAofpFgp6xQi8rch8Kmn6RbHGRa3"
 
 # Boilerplate code here
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)

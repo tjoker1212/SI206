@@ -9,8 +9,8 @@ import tweepy
 # Unique code from Twitter
 access_token = "1001992866-Z7Rx0dRzqsnOy7gfGc3ac1A8auGDVCyW1MWpurm"
 access_token_secret = "nkvDTNtH5qLuuAemICUjcx2oK03cxVdQpP1bfFEA1x4H8"
-consumer_key = "iBpaRhWYa4mDwmPYScWMV6OuG"
-consumer_secret = "YURJCV4aU5QwM5QkmWFDeiHjundxiBkH9Jhwps3g5kotDPo0bL"
+consumer_key = "oIKUQxPg4eW6EwpzA1h5ocmeZ"
+consumer_secret = "MlsYZn1jY1AmkMtvtPdjxAZAofpFgp6xQi8rch8Kmn6RbHGRa3"
 
 # Boilerplate code here
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
